@@ -2,19 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: Welcome to my adaptation of a Hugo Apéro Blogdown site. This is my first foray into using Blogdown and Netlify. I'm learning as I go so apologies in advance for any hiccups along the way. I'll slowly chip away at the template content and replace it with my projects and ideas. Come back and visit!
 image_left: true
 images:
 - img/revoir.jpg
 show_action_link: true
-show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+show_social_links: false
+subtitle: A site for capturing thoughts, ideas and experiments
 text_align_left: false
-title: Hugo Apéro
+title: 琢磨
 type: home
 ---
 
